@@ -1,0 +1,1 @@
+A simple interactive game built with Pygame Zero where players click on a randomly moving apple. If the apple is clicked, it reappears at a new random position; otherwise, the game ends. Perfect for beginners learning game development with Python!
